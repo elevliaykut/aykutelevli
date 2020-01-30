@@ -1,9 +1,9 @@
 import React from 'react'
-
+import {CollectiveTitle} from './../collective-card/collective-card.styles'
 const PersonalCard = () => {
     return(
         <>
-            <h1>Hello world</h1>
+            <CollectiveTitle>Personal Info</CollectiveTitle>
         </>
     )
 }
