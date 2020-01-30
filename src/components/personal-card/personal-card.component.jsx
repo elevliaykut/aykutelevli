@@ -3,7 +3,7 @@ import {CollectiveTitle} from './../collective-card/collective-card.styles'
 const PersonalCard = () => {
     return(
         <>
-            <CollectiveTitle>Personal Info</CollectiveTitle>
+            <CollectiveTitle>Education</CollectiveTitle>
         </>
     )
 }
