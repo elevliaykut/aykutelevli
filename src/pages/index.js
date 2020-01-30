@@ -4,11 +4,17 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 import PersonalCard from './../components/personal-card/personal-card.component'
+import PersonalityCard from './../components/personality-card/personality-card.component'
+import JourneyCard from './../components/journey-card/journey-card.component'
 
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-      <PersonalCard/>
+    <div>
+      <PersonalCard />
+      <PersonalityCard />
+      <JourneyCard/>
+    </div>
   </Layout>
 )
 
