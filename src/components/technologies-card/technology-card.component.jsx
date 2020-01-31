@@ -7,14 +7,20 @@ const TechnologyCard = () => {
             <CollectiveTitle>Teknolojiler</CollectiveTitle>
             <StackList>
                 <Item>
-                    Şuanda aktif olarak <TechOne>React</TechOne>, <TechTwo>React Native</TechTwo>, <TechThree>Firebase</TechThree> ve <TechFive>Docker sanallaştırma</TechFive> teknolojileri üzerinde
+                    Şuanda aktif olarak <TechOne><BoldText>React</BoldText></TechOne>, <TechTwo><BoldText>React Native</BoldText></TechTwo>, <TechThree><BoldText>Firebase</BoldText></TechThree> teknolojileri üzerinde
                     çalışmalar yapıp, uygulamalar geliştirmekteyim.
                 </Item>
                 <Item>
-                    Genel olarak kullandığım teknolojiler <TechSix>PHP</TechSix>, <TechSeven>Html</TechSeven>, <TechEight>Css</TechEight> şekklinde devam ediyor.
+                    Genel olarak kullandığım teknolojiler <TechSix><BoldText>Git</BoldText></TechSix>, <TechFive><BoldText>MySql</BoldText></TechFive>, <TechSeven><BoldText>Html</BoldText></TechSeven>, <TechEight><BoldText>Css</BoldText></TechEight> şekklinde devam ediyor.
                 </Item>
                 <Item>
-                    <TechOne>Git</TechOne>, <TechTwo>Git Terminal </TechTwo> 'i neredeyse hergün kullanıyorum. 
+                    Sanallaştırma ve Uygulamaların daha kolay deploy süreçleri için <TechFour><BoldText>Docker</BoldText></TechFour> teknolojisini kullanıyorum.
+                </Item>
+                <Item>
+                    <TechOne><BoldText>Git</BoldText></TechOne>, <TechTwo><BoldText>Git Terminal</BoldText></TechTwo> 'i neredeyse hergün kullanıyorum. 
+                </Item>
+                <Item>
+                    Geliştirdiğim Projeler de <TechEight><BoldText>Unit Test</BoldText></TechEight>' leri gerçekleştiriyorum.
                 </Item>
             </StackList>
         </>
