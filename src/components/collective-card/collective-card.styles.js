@@ -6,7 +6,8 @@ export const CollectiveTitle = styled.div`
     margin-bottom: 20px;
     margin-top: 40px;
     padding: 10px 20px;
-    border-bottom: 3px solid #000000;
+    border-bottom: 3px solid #413f3f;
+    width:100%;
 `
 export const TopTitle = styled.h1`
     font-size: 35px;
@@ -14,7 +15,7 @@ export const TopTitle = styled.h1`
     padding:5px;
 `
 export const Summary = styled.p`
-    padding:5px;
+
 `
 export const SocialIcons = styled.div`
     display:flex;
