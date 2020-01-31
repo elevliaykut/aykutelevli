@@ -1,10 +1,10 @@
 import React from 'react'
 import { CollectiveTitle } from './../collective-card/collective-card.styles'
-import { render } from 'react-dom'
+import CustomEmoji from './../custom-emoji/custom-emoji.component'
 const ProjectsCard = () => {
     return(
         <>
-            <CollectiveTitle>Projeler</CollectiveTitle>
+            <CollectiveTitle><CustomEmoji label='Projects' emoji='👩🏻‍💻'></CustomEmoji> Projeler </CollectiveTitle>
         </>
     )
 }

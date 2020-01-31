@@ -1,10 +1,11 @@
 import React from 'react'
 import { CollectiveTitle } from './../collective-card/collective-card.styles'
 import { StackList, Item, TechOne, TechTwo, TechThree, TechFour, TechFive, TechSix, TechSeven, TechEight, BoldText } from './../collective-card/collective-card.styles'
+import CustomEmoji from './../custom-emoji/custom-emoji.component'
 const TechnologyCard = () => {
     return (
         <>
-            <CollectiveTitle>Teknolojiler</CollectiveTitle>
+            <CollectiveTitle><CustomEmoji label='tool' emoji='🛠'></CustomEmoji> Teknolojiler </CollectiveTitle>
             <StackList>
                 <Item>
                     Şuanda aktif olarak <TechOne><BoldText>React</BoldText></TechOne>, <TechTwo><BoldText>React Native</BoldText></TechTwo>, <TechThree><BoldText>Firebase</BoldText></TechThree> teknolojileri üzerinde

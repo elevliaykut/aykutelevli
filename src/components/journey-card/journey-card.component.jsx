@@ -9,7 +9,7 @@ import CustomEmoji from './../custom-emoji/custom-emoji.component'
 const JourneyCard = () => {
     return (
         <>
-            <CollectiveTitle>Geçmişten Gelen</CollectiveTitle>
+            <CollectiveTitle><CustomEmoji label='computer' emoji='💻'></CustomEmoji> Geçmişten Gelen </CollectiveTitle>
             <SubTitle>Yakında</SubTitle>
             <ItemList>
                 <Item>
