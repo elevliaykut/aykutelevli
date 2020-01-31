@@ -51,3 +51,36 @@ export const Date = styled.em`
     color:'#888';
     font-size:16px;
 `
+
+export const StackList = styled.ul`
+    margin-top: 5px;
+    list-style:square inside;
+    padding-left:0;
+    margin-left:0;
+    line-height:1.8;
+`
+export const TechOne = styled.em`
+    border-bottom: 3px solid #f0db4f;
+`
+
+export const TechTwo = styled.em`
+    border-bottom: 3px solid #0db7ed;
+`
+export const TechThree = styled.em`
+    border-bottom: 3px solid #474a8a;
+`
+export const TehchFour = styled.em`
+    border-bottom: 3px solid #306998;
+`
+export const TechFive = styled.em`
+    border-bottom: 3px solid #83ba63;
+`
+export const TechSix = styled.em`
+    border-bottom: 3px solid #ff9900;
+`
+export const TechSeven = styled.em`
+    border-bottom: 3px solid #d24939;
+`
+export const TechEight = styled.em`
+    border-bottom: 3px solid #fd9426;
+`
