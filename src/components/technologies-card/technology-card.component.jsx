@@ -12,7 +12,7 @@ const TechnologyCard = () => {
                     çalışmalar yapıp, uygulamalar geliştirmekteyim.
                 </Item>
                 <Item>
-                    Genel olarak kullandığım teknolojiler <TechSix><BoldText>Git</BoldText></TechSix>, <TechFive><BoldText>MySql</BoldText></TechFive>, <TechSeven><BoldText>Html</BoldText></TechSeven>, <TechEight><BoldText>Css</BoldText></TechEight> şekklinde devam ediyor.
+                    Genel olarak kullandığım teknolojiler <TechSix><BoldText>PHP</BoldText></TechSix>, <TechFive><BoldText>MySql</BoldText></TechFive>, <TechSeven><BoldText>Html</BoldText></TechSeven>, <TechEight><BoldText>Css</BoldText></TechEight> şekklinde devam ediyor.
                 </Item>
                 <Item>
                     Sanallaştırma ve Uygulamaların daha kolay deploy süreçleri için <TechFour><BoldText>Docker</BoldText></TechFour> teknolojisini kullanıyorum.

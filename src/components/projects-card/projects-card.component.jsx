@@ -11,16 +11,31 @@ const ProjectsCard = () => {
             <ItemList>
                 <Item>
                     <CustomEmoji label='present' emoji='🎧'></CustomEmoji> Şuan da <CustomLink targetUrl='https://github.com/elevliaykut/Whoisnext'>Win</CustomLink>,
-                    mobil uygulamam üzerinde geliştirme yaparken <BoldText>React Native</BoldText>, <BoldText>Node.js</BoldText>, <BoldText> Javascirpt </BoldText> yeteneklerimi geliştirmiş oluyorum.<Date> (2020) </Date>
+                    mobil uygulamam üzerinde geliştirme yaparken <BoldText>React Native</BoldText>, <BoldText>Node.js</BoldText>, <BoldText> JavaScript </BoldText> yeteneklerimi geliştirmiş oluyorum.<Date> (2020) </Date>
                 </Item>
             </ItemList>
             <SubTitle>Geçmiş</SubTitle>
             <ItemList>
                 <Item>
-                    <CustomEmoji label='present' emoji='✔️'></CustomEmoji>Bitirme Projesi olarak geliştirdiğimiz <CustomLink targetUrl="https://github.com/elevliaykut/CareerProjectFrontEnd">Kariyer Planlama Platformu</CustomLink> 3 yakın arkadaşım ile
-                    beraber geliştirdik. Diğer Kariyer Planlama platformlarından farklı olarak sınav modülü entegre ettik. Böylece Insan Kaynaklarında görev alan
-                    kişiler daha az efor harcayarak ilgili pozisyona uygun adayı bulabiliyorlar. <Date> (2019) </Date>
+                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Bir film sitesinin dışarıya verdiği API' yı kullanarak güncel filmleri gösterdiğim basit bir React Native projesi yaptım.
                 </Item>
+                <Item>
+                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Bitirme Projesi olarak geliştirdiğimiz <CustomLink targetUrl="https://github.com/elevliaykut/CareerProjectFrontEnd">Kariyer Planlama Platformu</CustomLink> 2 yakın arkadaşım ile
+                    beraber geliştirdik. Diğer Kariyer Planlama platformlarından farklı olarak sınav modülü entegre ettik. Böylece Insan Kaynaklarında görev alan
+                    kişiler daha az efor harcayarak ilgili pozisyona uygun adayı bulabiliyorlar. <Date> (2019 - CoFounder) </Date>
+                </Item>
+                <Item>
+                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Docker Sanallaştırma teknolojisini kullanarak <BoldText>Mysql</BoldText> ve <BoldText>Nginx</BoldText>' i farklı containerlarda
+                    koşturup basit bir <CustomLink targetUrl="https://github.com/elevliaykut/Dockerizing-Laravel-App-On-Ubuntu"> Laravel web projesi </CustomLink> geliştirdim.<Date> (2019) </Date>
+                </Item>
+                <Item>
+                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Akademik alanda faliyet göstermekte olan öğretim üyelerinin yaptığı araştırmalar üzerine yazdığı makaleleri yayınlayabileceği 
+                    bir <CustomLink targetUrl="https://github.com/elevliaykut/Dockerizing-Laravel-App-On-Ubuntu"> Akademik Dergi Yönetim Sistemi </CustomLink> geliştirdim. <Date> (2018) </Date>
+                </Item>
+                <Item>
+                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Plotların kolayca rezervasyon yapıp uçuş için simulator kiralayabileceği bir <CustomLink targetUrl="https://github.com/elevliaykut/Simulator-Management-System">Simulator Yönetim Sistemi</CustomLink> geliştirdim.<Date> (2017) </Date>
+                </Item>
+                
             </ItemList>
         </>
     )
