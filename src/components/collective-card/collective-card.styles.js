@@ -69,7 +69,7 @@ export const TechTwo = styled.em`
 export const TechThree = styled.em`
     border-bottom: 3px solid #474a8a;
 `
-export const TehchFour = styled.em`
+export const TechFour = styled.em`
     border-bottom: 3px solid #306998;
 `
 export const TechFive = styled.em`
