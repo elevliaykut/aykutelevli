@@ -7,6 +7,7 @@ import PersonalCard from './../components/personal-card/personal-card.component'
 import PersonalityCard from './../components/personality-card/personality-card.component'
 import JourneyCard from './../components/journey-card/journey-card.component'
 import TechnologyCard from './../components/technologies-card/technology-card.component'
+import ProjectsCard from './../components/projects-card/projects-card.component'
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
@@ -15,6 +16,7 @@ const IndexPage = () => (
       <PersonalityCard />
       <JourneyCard />
       <TechnologyCard />
+      <ProjectsCard/>
     </div>
   </Layout>
 )
