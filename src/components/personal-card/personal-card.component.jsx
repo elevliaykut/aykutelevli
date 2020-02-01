@@ -8,7 +8,7 @@ import  GithubLogo  from './../../images/social-icons/github.png'
 const PersonalCard = () => {
     return (
         <>
-            <TopTitle>Merhaba</TopTitle>
+            <TopTitle>Merhaba, Ben Aykut</TopTitle>
             <Summary>
                 Kod yazmak ve bir uygulamayı hayata geçirene kadar geçen süre benim en büyük tutkum.Uygulama geliştirlme yolculuğumda
                 güncel teknolojileri araştırmak ve bunları geliştirdiğim uygulamalarda kullanarak ilerliyorum.
