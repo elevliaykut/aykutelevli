@@ -12,7 +12,7 @@ import Footer from './../components/footer/custom-footer.component'
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Aykut Elevli" />
     <div>
       <PersonalCard />
       <PersonalityCard />

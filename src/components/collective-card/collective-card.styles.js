@@ -10,7 +10,7 @@ export const CollectiveTitle = styled.div`
     width:100%;
 `
 export const TopTitle = styled.h1`
-    font-size: 35px;
+    font-size: 38px;
     margin-top:20px;
     padding:5px;
 `
@@ -19,6 +19,7 @@ export const Summary = styled.p`
 `
 export const SocialIcons = styled.div`
     display:flex;
+    margin-bottom: -40px;
     img {
         width: 30px;
         margin-right:9px;
