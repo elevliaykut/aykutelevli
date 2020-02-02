@@ -23,11 +23,6 @@ const PersonalCard = () => {
                     targetUrl='https://github.com/elevliaykut'
 					imageSource={GithubLogo}
 					altDescription='github' />
-                <CustomIcon 
-                    targetUrl='https://www.instagram.com/elevliaykut/'
-                    imageSource={InstagramLogo}
-                    altDescription='Instagram'
-                    />
             </SocialIcons>
         </>
     )
