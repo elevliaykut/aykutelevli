@@ -4,6 +4,7 @@ import  CustomIcon  from './../customicon/custom-icon.component'
 
 import  LinkedinLogo  from './../../images/social-icons/linkedin.png'
 import  GithubLogo  from './../../images/social-icons/github.png'
+import InstagramLogo from './../../images/social-icons/instagram.png'
 
 const PersonalCard = () => {
     return (
@@ -22,6 +23,11 @@ const PersonalCard = () => {
                     targetUrl='https://github.com/elevliaykut'
 					imageSource={GithubLogo}
 					altDescription='github' />
+                <CustomIcon 
+                    targetUrl='https://www.instagram.com/elevliaykut/'
+                    imageSource={InstagramLogo}
+                    altDescription='Instagram'
+                    />
             </SocialIcons>
         </>
     )
