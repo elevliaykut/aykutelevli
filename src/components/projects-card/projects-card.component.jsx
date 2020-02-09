@@ -17,7 +17,7 @@ const ProjectsCard = () => {
             <SubTitle>Geçmiş</SubTitle>
             <ItemList>
                 <Item>
-                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> RESTFUL Api mimarisini kullanarak Node.js ile <CustomLink targetUrl="https://github.com/elevliaykut/web-service"> bir Web Servis </CustomLink> yazdım. <Date> (2020) </Date>
+                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> RESTFUL Api mimarisini kullanarak Node.js ile <CustomLink targetUrl="https://github.com/elevliaykut/web-service"> Web Servis </CustomLink> geliştirdim. <Date> (2020) </Date>
                 </Item>
                 <Item>
                     <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Bir film sitesinin dışarıya verdiği API' yı kullanarak güncel filmleri gösterdiğim basit bir <CustomLink targetUrl="https://github.com/elevliaykut/movie-list"> Film Uygulaması </CustomLink> yaptım. <Date> (2020) </Date>

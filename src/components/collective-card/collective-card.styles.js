@@ -85,3 +85,7 @@ export const TechSeven = styled.em`
 export const TechEight = styled.em`
     border-bottom: 3px solid #fd9426;
 `
+export const Snippet = styled.h3`
+    font-weight: 600;
+    font-size: 24px;
+`

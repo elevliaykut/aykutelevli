@@ -1,5 +1,5 @@
 import React from 'react'
-import { TopTitle,Summary,SocialIcons } from './../collective-card/collective-card.styles'
+import { TopTitle,Summary,SocialIcons,Snippet } from './../collective-card/collective-card.styles'
 import  CustomIcon  from './../customicon/custom-icon.component'
 
 import  LinkedinLogo  from './../../images/social-icons/linkedin.png'
@@ -10,6 +10,7 @@ const PersonalCard = () => {
     return (
         <>
             <TopTitle>Merhaba, Ben Aykut</TopTitle>
+            <Snippet>Uygulama Geliştiricisi @ Ithinka Bilgi Teknolojileri</Snippet>
             <Summary>
                 Kod yazmak ve bir uygulamayı hayata geçirene kadar geçen süre benim en büyük tutkum.Uygulama geliştirme yolculuğumda
                 güncel teknolojileri araştırarak ve bunları geliştirdiğim uygulamalarda kullanarak ilerliyorum.
