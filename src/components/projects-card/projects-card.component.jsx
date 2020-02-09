@@ -17,6 +17,9 @@ const ProjectsCard = () => {
             <SubTitle>Geçmiş</SubTitle>
             <ItemList>
                 <Item>
+                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> RESTFUL Api mimarisini kullanarak Node.js ile <CustomLink targetUrl="https://github.com/elevliaykut/web-service"> bir Web Servis </CustomLink> yazdım. <Date> (2020) </Date>
+                </Item>
+                <Item>
                     <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Bir film sitesinin dışarıya verdiği API' yı kullanarak güncel filmleri gösterdiğim basit bir <CustomLink targetUrl="https://github.com/elevliaykut/movie-list"> Film Uygulaması </CustomLink> yaptım. <Date> (2020) </Date>
                 </Item>
                 <Item>
@@ -32,13 +35,13 @@ const ProjectsCard = () => {
                     koşturup basit bir <CustomLink targetUrl="https://github.com/elevliaykut/Dockerizing-Laravel-App-On-Ubuntu"> Laravel web projesi </CustomLink> geliştirdim.<Date> (2019) </Date>
                 </Item>
                 <Item>
-                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Akademik alanda faliyet göstermekte olan öğretim üyelerinin yaptığı araştırmalar üzerine yazdığı makaleleri yayınlayabileceği 
+                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Akademik alanda faliyet göstermekte olan öğretim üyelerinin yaptığı araştırmalar üzerine yazdığı makaleleri yayınlayabileceği
                     bir <CustomLink targetUrl="https://github.com/elevliaykut/Dockerizing-Laravel-App-On-Ubuntu"> Akademik Dergi Yönetim Sistemi </CustomLink> geliştirdim. <Date> (2018) </Date>
                 </Item>
                 <Item>
                     <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Pilotların kolayca rezervasyon yapıp uçuş için simulator kiralayabileceği bir <CustomLink targetUrl="https://github.com/elevliaykut/Simulator-Management-System">Simulator Yönetim Sistemi</CustomLink> geliştirdim.<Date> (2017) </Date>
                 </Item>
-                
+
             </ItemList>
         </>
     )
