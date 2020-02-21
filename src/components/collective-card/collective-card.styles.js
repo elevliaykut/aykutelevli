@@ -15,6 +15,7 @@ export const TopTitle = styled.h1`
     padding:5px;
 `
 export const Summary = styled.p`
+    font-family: Muli,sans-serif;
 `
 export const SocialIcons = styled.div`
     display:flex;
