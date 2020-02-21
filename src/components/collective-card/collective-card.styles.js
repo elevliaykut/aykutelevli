@@ -14,10 +14,6 @@ export const TopTitle = styled.h1`
     margin-top:20px;
     padding:5px;
 `
-export const Snippet = styled.h3`
-    font-weight: 600;
-    font-size: 24px;
-`
 export const Summary = styled.p`
 `
 export const SocialIcons = styled.div`
