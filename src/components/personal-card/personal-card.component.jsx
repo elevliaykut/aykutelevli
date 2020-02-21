@@ -9,7 +9,7 @@ const PersonalCard = () => {
     return (
         <>
             <TopTitle>Merhaba, Ben Aykut.</TopTitle>
-            <Snippet>Software Developer @ İthinka Bilgi Teknolojileri</Snippet>
+            <Snippet>Software Developer @ Ithinka Bilgi Teknolojileri</Snippet>
             <Summary>
                 Kod yazmak ve bir uygulamayı hayata geçirene kadar geçen süre benim en büyük tutkum.Uygulama geliştirme yolculuğumda
                 güncel teknolojileri araştırarak ve bunları geliştirdiğim uygulamalarda kullanarak ilerliyorum.
