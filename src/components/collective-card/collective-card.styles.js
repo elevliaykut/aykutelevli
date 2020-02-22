@@ -15,11 +15,7 @@ export const TopTitle = styled.h1`
     padding:5px;
 `
 export const Summary = styled.p`
-    font-family: Muli,sans-serif;
-    line-height: 1.7;
-    letter-spacing: -.03rem;
-    color: #222;
-    box-sizing: inherit;
+
 `
 export const SocialIcons = styled.div`
     display:flex;
