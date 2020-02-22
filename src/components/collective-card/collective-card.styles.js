@@ -16,6 +16,9 @@ export const TopTitle = styled.h1`
 `
 export const Summary = styled.p`
     font-family: Muli,sans-serif;
+    line-height: 1.7;
+    letter-spacing: -.03rem;
+    color: #222;
 `
 export const SocialIcons = styled.div`
     display:flex;
@@ -26,7 +29,10 @@ export const SocialIcons = styled.div`
     }
 `
 export const PersonalityInfo = styled.p`
-
+    font-family: Muli,sans-serif;
+    line-height: 1.7;
+    letter-spacing: -.03rem;
+    color: #222;
 `
 export const PersonalList = styled.ul`
     list-style:none;
