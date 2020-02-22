@@ -8,7 +8,7 @@ const TechnologyCard = () => {
             <CollectiveTitle><CustomEmoji label='tool' emoji='🛠'></CustomEmoji> Teknolojiler </CollectiveTitle>
             <StackList>
                 <Item>
-                    Şuan için tamamen <TechOne><BoldText>Javascript</BoldText></TechOne> - React, <TechTwo><BoldText>Node.js</BoldText></TechTwo> - Express, Sanallaştırma için <TechThree><BoldText>Docker</BoldText></TechThree> teknolojileri üzerinde
+                    Şuan için tamamen <TechOne><BoldText>Javascript</BoldText></TechOne> - <BoldText>React</BoldText>, <TechTwo><BoldText>Node.js</BoldText></TechTwo> - <BoldText>Express</BoldText>, Sanallaştırma için <TechThree><BoldText>Docker</BoldText></TechThree> teknolojileri üzerinde
                     odaklanıp, uygulamalar geliştiriyorum.
                 </Item>
                 <Item>
@@ -18,10 +18,13 @@ const TechnologyCard = () => {
                     Cross Platform mobil uygulama geliştirirken <TechOne><BoldText>React Native</BoldText></TechOne>, <TechTwo><BoldText>Firebase</BoldText></TechTwo> kullanıyorum.
                 </Item>
                 <Item>
-                    Basit seviye de temel olarak <TechThree><BoldText>Jenkins</BoldText></TechThree> ile <BoldText> CI/CD </BoldText> süreçleri hakkında bilgi sahibiyim.
+                    <TechOne><BoldText>Git</BoldText></TechOne>, <TechTwo><BoldText>Git Terminal</BoldText></TechTwo> 'i neredeyse hergün kullanıyorum.
                 </Item>
                 <Item>
-                    <TechOne><BoldText>Git</BoldText></TechOne>, <TechTwo><BoldText>Git Terminal</BoldText></TechTwo> 'i neredeyse hergün kullanıyorum. 
+                    Temel seviye de <TechTwo><BoldText>Linux</BoldText></TechTwo><BoldText> Sistem </BoldText> bilgim var.
+                </Item>
+                <Item>
+                    Basit seviye de temel olarak <TechThree><BoldText>Jenkins</BoldText></TechThree> ile <BoldText> CI/CD </BoldText> süreçleri hakkında bilgi sahibiyim.
                 </Item>
             </StackList>
         </>
