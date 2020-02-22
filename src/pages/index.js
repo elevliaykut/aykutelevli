@@ -8,7 +8,6 @@ import PersonalityCard from './../components/personality-card/personality-card.c
 import JourneyCard from './../components/journey-card/journey-card.component'
 import TechnologyCard from './../components/technologies-card/technology-card.component'
 import ProjectsCard from './../components/projects-card/projects-card.component'
-import BlogCard from './../components/blog-card/blog-card.component'
 import Footer from './../components/footer/custom-footer.component'
 
 const IndexPage = () => (
@@ -19,7 +18,6 @@ const IndexPage = () => (
       <JourneyCard />
       <TechnologyCard />
       <ProjectsCard/>
-      <BlogCard />
       <Footer/>
     </div>
   </Layout>
