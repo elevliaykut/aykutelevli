@@ -4,6 +4,7 @@ import  CustomIcon  from './../customicon/custom-icon.component'
 
 import  LinkedinLogo  from './../../images/social-icons/linkedin.png'
 import  GithubLogo  from './../../images/social-icons/github.png'
+import  MediumLogo  from './../../images/social-icons/medium.png'
 
 const PersonalCard = () => {
     return (
@@ -23,6 +24,11 @@ const PersonalCard = () => {
                     targetUrl='https://github.com/elevliaykut'
 					imageSource={GithubLogo}
 					altDescription='github' />
+                <CustomIcon 
+                    targetUrl='https://medium.com/@elevli.aykut.28'
+                    imageSource={MediumLogo}
+                    altDescription='medium'/>
+
             </SocialIcons>
         </>
     )
