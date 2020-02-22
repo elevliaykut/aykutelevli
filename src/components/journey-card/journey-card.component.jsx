@@ -13,7 +13,7 @@ const JourneyCard = () => {
             <SubTitle>Yakında</SubTitle>
             <ItemList>
                 <Item>
-                    Uygulama Geliştiricisi olarak <BoldText>Ithinka Bilgi Teknolojileri</BoldText> şirketinde çalışmaktayım.
+                    <CustomEmoji label='motobike' emoji='🛵' /> Yazılım Geliştiricisi olarak <BoldText>Ithinka Bilgi Teknolojileri</BoldText> şirketinde çalışmaktayım.
                 </Item>
             </ItemList>
             <SubTitle>Geçmişte</SubTitle>
@@ -25,11 +25,11 @@ const JourneyCard = () => {
                     <CustomEmoji label='lublin' emoji='🇪🇪' /> <BoldText>Lublin University Of Technology</BoldText> Bilgisayar Mühendisliği. <Date>(2016-2018)</Date>
                 </Item>
                 <Item>
-                    <CustomEmoji label='highschool'emoji='🏫'/> <BoldText>Anadolu Teknik Lisesi</BoldText> web programlama. <Date>(2012)</Date>
+                    <CustomEmoji label='highschool' emoji='🏫' /> <BoldText>Anadolu Teknik Lisesi</BoldText> web programlama. <Date>(2012)</Date>
                 </Item>
                 <Item>
-                    <CustomEmoji label="born" emoji='🐣'/> Yazılıma olan merakım lise yıllarımın kapısını çalıyor. O zamanlar bir sürü web sitesi yapıp beğenmeyip tekrar yenisine başlıyordum.
-                    <CustomEmoji label="smile" emoji='😀'/>
+                    <CustomEmoji label="born" emoji='🐣' /> Yazılıma olan merakım lise yıllarımın kapısını çalıyor. O zamanlar bir sürü web sitesi yapıp beğenmeyip tekrar yenisine başlıyordum.
+                    <CustomEmoji label="smile" emoji='😀' />
                 </Item>
             </ItemList>
         </>

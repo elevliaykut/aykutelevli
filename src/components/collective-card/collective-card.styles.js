@@ -42,11 +42,6 @@ export const PersonalList = styled.ul`
     line-height:1.2;
 `
 export const Item = styled.li`
-    font-family: Muli,sans-serif;
-    line-height: 1.7;
-    letter-spacing: -.03rem;
-    color: #222;
-    box-sizing: inherit;
 `
 export const BoldText = styled.span`
     font-weight:bold;
