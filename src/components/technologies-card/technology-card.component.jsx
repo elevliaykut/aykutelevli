@@ -21,7 +21,7 @@ const TechnologyCard = () => {
                     <TechOne><BoldText>Git</BoldText></TechOne>, <TechTwo><BoldText>Git Terminal</BoldText></TechTwo> 'i neredeyse hergün kullanıyorum.
                 </Item>
                 <Item>
-                    Temel seviye de <TechTwo><BoldText>Linux</BoldText></TechTwo><BoldText> Sistem </BoldText> bilgim var.
+                    Temel seviye de <TechOne><BoldText>Linux</BoldText></TechOne> - <BoldText>Sistem</BoldText> bilgim var.
                 </Item>
                 <Item>
                     Basit seviye de temel olarak <TechThree><BoldText>Jenkins</BoldText></TechThree> ile <BoldText> CI/CD </BoldText> süreçleri hakkında bilgi sahibiyim.
