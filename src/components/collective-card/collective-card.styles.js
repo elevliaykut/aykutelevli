@@ -19,6 +19,7 @@ export const Summary = styled.p`
     line-height: 1.7;
     letter-spacing: -.03rem;
     color: #222;
+    box-sizing: inherit;
 `
 export const SocialIcons = styled.div`
     display:flex;
