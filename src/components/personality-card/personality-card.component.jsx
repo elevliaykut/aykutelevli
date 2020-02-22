@@ -14,16 +14,16 @@ const PersonalityCard = () => {
             </PersonalityInfo>
             <PersonalList>
                 <Item>
-                    <BoldText>
-                        Hobiler:
-                    </BoldText>
-                    Podcast dinelemek,spor yapmak,yeni yerler keşfetmek...
-                <CustomIcon 
-                    targetUrl='https://open.spotify.com/user/3cv5rjgfbz1n87og5bnahdva3'
-                    imageSource={SpotifyLogo}
-                    altDescription='spotify'
-                    style={{ width:'27px', verticalAlign: 'middle', marginleft: '5px' }}
-                />
+                    <BoldText>Hobiler:</BoldText> spor yapmak,yeni yerler keşfetmek...
+                </Item>
+                <Item>
+                    <BoldText>Müzik:</BoldText> safe now, let me down, cold world ...
+                    <CustomIcon
+                        targetUrl='https://open.spotify.com/user/3cv5rjgfbz1n87og5bnahdva3'
+                        imageSource={SpotifyLogo}
+                        altDescription='spotify'
+                        style={{ width: '27px', verticalAlign: 'middle', marginleft: '6px' }}
+                    />
                 </Item>
             </PersonalList>
         </>
