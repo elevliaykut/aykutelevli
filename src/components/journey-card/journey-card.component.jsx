@@ -22,7 +22,7 @@ const JourneyCard = () => {
                     <CustomEmoji label='graduate' emoji='🎓' /> <BoldText>Fırat Universitesi</BoldText> Bilgisayar Mühendisliği mezunuyum. <Date>(2014-2020)</Date>
                 </Item>
                 <Item>
-                    <CustomEmoji label='intern' emoji='🕹' /> <BoldText>Gözen Holding</BoldText> Yazılım Geliştirme yaz stajı. <Date>(2017-Haziran / 2017-Eylül)</Date>
+                    <CustomEmoji label='intern' emoji='🕹' /> <BoldText>Gözen Holding</BoldText> Yazılım Geliştirme yaz stajı. <Date>(2017)</Date>
                 </Item>
                 <Item>
                     <CustomEmoji label='lublin' emoji='🇪🇪' /> <BoldText>Lublin University Of Technology</BoldText> Bilgisayar Mühendisliği. <Date>(2016-2018)</Date>
