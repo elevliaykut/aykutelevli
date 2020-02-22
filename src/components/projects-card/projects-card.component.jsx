@@ -10,32 +10,35 @@ const ProjectsCard = () => {
             <SubTitle>Mevcut</SubTitle>
             <ItemList>
                 <Item>
-                    <CustomEmoji label='present' emoji='🎧'></CustomEmoji> Şuan da React, Node.js becerilerimi geliştirmek için <CustomLink targetUrl='https://github.com/elevliaykut/FlylList'>Flylist</CustomLink>,
-                    uygulamamı geliştiriyorum. <Date> (2020) </Date>
+                    <CustomEmoji label='present' emoji='🎧'></CustomEmoji> Şuan da React, Node.js becerilerimi geliştirmek için, Spotify'ın sunduğu api'leri kullanarak kullanıcıların çalma listelerini görebileceği <CustomLink targetUrl='https://github.com/elevliaykut/FlylList'>Flylist</CustomLink>' i
+                    geliştiriyorum. <Date> (2020) </Date>
                 </Item>
             </ItemList>
             <SubTitle>Geçmiş</SubTitle>
             <ItemList>
                 <Item>
-                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Nöbetçi takip sistemini oldukça kolaylaştıracak cross platform mobil uygulamam <BoldText> Win </BoldText>' i geliştirdim. <Date> (2020) </Date>
+                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Nöbetçi takip sistemini oldukça kolaylaştıracak cross platform mobil uygulamam <BoldText> Win </BoldText>' i geliştirdim. <Date> (2020) Yakında Mobile Uygulama Marketlerin'de.</Date>
                 </Item>
                 <Item>
                     <CustomEmoji label='past' emoji='✔️'></CustomEmoji> RESTFUL Api mimarisini kullanarak Node.js ile <CustomLink targetUrl="https://github.com/elevliaykut/web-service"> Web Servis </CustomLink> geliştirdim. <Date> (2020) </Date>
                 </Item>
                 <Item>
+                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> RESTFUL Api mimarisi, Vue.js, Laravel kullanarak basit bir <CustomLink targetUrl="https://github.com/elevliaykut/articlesapp"> Makale Yönetim Sistemi </CustomLink> geliştirdim. <Date> (2020) </Date>
+                </Item>
+                <Item>
                     <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Bir film sitesinin dışarıya verdiği API' yı kullanarak güncel filmleri gösterdiğim basit bir <CustomLink targetUrl="https://github.com/elevliaykut/movie-list"> Film Uygulaması </CustomLink> yaptım. <Date> (2020) </Date>
                 </Item>
                 <Item>
-                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> İzmir lokasyonunda bulunan <CustomLink targetUrl="https://bro35.com/"> Bro35 </CustomLink> şirketinde <CustomLink targetUrl="https://emlaksitem.com/"> Emlaksitem </CustomLink> projesinde FrontEnd Developer olarak görev aldım. <Date> (2019) </Date>
+                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> İzmir lokasyonunda bulunan <CustomLink targetUrl="https://bro35.com/"> Bro35 </CustomLink> şirketin de <CustomLink targetUrl="https://emlaksitem.com/"> Emlaksitem </CustomLink> projesinde FrontEnd Developer olarak görev aldım. <Date> (2019) </Date>
                 </Item>
                 <Item>
                     <CustomEmoji label='past' emoji='✔️'></CustomEmoji><BoldText> Kariyer Planlama Platformu </BoldText>' nu 2 yakın arkadaşım ile
                     beraber geliştirdik. Diğer Kariyer Planlama platformlarından farklı olarak sınav modülü entegre ettik. Böylece Insan Kaynaklarında görev alan
-                    kişiler daha az efor harcayarak ilgili pozisyonlara uygun adayları bulabiliyorlar. <Date> (2019 - CoFounder) </Date>
+                    kişiler daha az efor harcayarak ilgili pozisyonlara uygun adayları bulabiliyorlar. <Date> (2019 - Co-founded) </Date>
                 </Item>
                 <Item>
-                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Docker Sanallaştırma teknolojisini kullanarak <BoldText>Mysql</BoldText> ve <BoldText>Nginx</BoldText>' i farklı containerlarda
-                    koşturup basit bir <CustomLink targetUrl="https://github.com/elevliaykut/Dockerizing-Laravel-App-On-Ubuntu"> Laravel web projesi </CustomLink> geliştirdim.<Date> (2019) </Date>
+                    <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Docker Sanallaştırma teknolojisini kullanarak Mysql ve Nginx' i farklı containerlarda
+                    koşturup basit bir <CustomLink targetUrl="https://github.com/elevliaykut/Dockerizing-Laravel-App-On-Ubuntu"> Laravel uygulaması </CustomLink> geliştirdim.<Date> (2019) </Date>
                 </Item>
                 <Item>
                     <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Akademik alanda faliyet göstermekte olan öğretim üyelerinin yaptığı araştırmalar üzerine yazdığı makaleleri yayınlayabileceği
