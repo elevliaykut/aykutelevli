@@ -42,7 +42,7 @@ const ProjectsCard = () => {
                 </Item>
                 <Item>
                     <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Akademik alanda faliyet göstermekte olan öğretim üyelerinin yaptığı araştırmalar üzerine yazdığı makaleleri yayınlayabileceği
-                    bir <CustomLink targetUrl="https://github.com/elevliaykut/Dockerizing-Laravel-App-On-Ubuntu"> Akademik Dergi Yönetim Sistemi </CustomLink> geliştirdim. <Date> (2018) </Date>
+                    bir <CustomLink targetUrl="https://github.com/elevliaykut/Academic-Journal-Platform"> Akademik Dergi Yönetim Sistemi </CustomLink> geliştirdim. <Date> (2018) </Date>
                 </Item>
                 <Item>
                     <CustomEmoji label='past' emoji='✔️'></CustomEmoji> Pilotların kolayca rezervasyon yapıp uçuş için simulator kiralayabileceği bir <CustomLink targetUrl="https://github.com/elevliaykut/Simulator-Management-System">Simulator Yönetim Sistemi</CustomLink> geliştirdim.<Date> (2017) </Date>
