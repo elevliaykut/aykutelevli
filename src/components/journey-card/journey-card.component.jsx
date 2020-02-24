@@ -13,7 +13,7 @@ const JourneyCard = () => {
             <SubTitle>Yakında</SubTitle>
             <ItemList>
                 <Item>
-                    <CustomEmoji label='motobike' emoji='🛵' /> Yazılım Geliştiricisi olarak <BoldText>Ithinka Bilgi Teknolojileri</BoldText> şirketinde çalışmaktayım. <Date>(Ekim 2029' dan beri.)</Date>
+                    <CustomEmoji label='motobike' emoji='🛵' /> Yazılım Geliştiricisi olarak <BoldText>Ithinka Bilgi Teknolojileri</BoldText> şirketinde çalışmaktayım. <Date>(Ekim 2019' dan beri.)</Date>
                 </Item>
             </ItemList>
             <SubTitle>Geçmişte</SubTitle>

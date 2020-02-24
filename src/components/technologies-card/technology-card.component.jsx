@@ -8,7 +8,7 @@ const TechnologyCard = () => {
             <CollectiveTitle><CustomEmoji label='tool' emoji='🛠'></CustomEmoji> Teknolojiler </CollectiveTitle>
             <StackList>
                 <Item>
-                    Şuan için tamamen <TechOne><BoldText>Javascript</BoldText></TechOne> - <BoldText>React</BoldText>, <TechTwo><BoldText>Node.js</BoldText></TechTwo> - <BoldText>Express</BoldText>, Sanallaştırma için <TechThree><BoldText>Docker</BoldText></TechThree> teknolojileri üzerinde
+                    Şuan için tamamen <TechOne><BoldText>JavaScript</BoldText></TechOne> - <BoldText>React</BoldText>, <TechTwo><BoldText>Node.js</BoldText></TechTwo> - <BoldText>Express</BoldText>, Sanallaştırma için <TechThree><BoldText>Docker</BoldText></TechThree> teknolojileri üzerinde
                     odaklanıp, uygulamalar geliştiriyorum.
                 </Item>
                 <Item>
