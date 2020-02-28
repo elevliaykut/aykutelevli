@@ -19,7 +19,7 @@ const JourneyCard = () => {
             <SubTitle>Geçmişte</SubTitle>
             <ItemList>
                 <Item>
-                    <CustomEmoji label='last-work' emoji='🚀' /> <BoldText>Ithinka Bilgi Teknolojileri şirketin de</BoldText> Yazılım Mühendisi olarak çalıştım. <Date>(Ekim 2019 - Şubat 2020)</Date>
+                    <CustomEmoji label='last-work' emoji='🚀' /> <BoldText>Ithinka Bilgi Teknolojileri</BoldText> şirketin de Yazılım Mühendisi olarak çalıştım. <Date>(Ekim 2019 - Şubat 2020)</Date>
                 </Item>
                 <Item>
                     <CustomEmoji label='graduate' emoji='🎓' /> <BoldText>Fırat Universitesi</BoldText> Bilgisayar Mühendisliği mezunuyum. <Date>(2014-2020)</Date>
