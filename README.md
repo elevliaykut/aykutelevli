@@ -1,9 +1,20 @@
-# aykutelevli.me🎉    https://aykutelevli.me/
+# aykutelevli.me🎉 https://aykutelevli.me/
 
-##### Bu benim kişisel web sayfam. Edindiğim tecrübeleri ve geliştirdiğim projeleri burda sizin ile paylaşıyor olacağım.
+##### This is my personal website, I will add new things as time goes on.
 
-<img src="./images/page-1.png" width="400" height="400">
-<img src="./images/page-3.png" width="400" height="400">
+<hr></hr>
+
+<p align="center">
+    <img src="./images/page-1.png" width="400" height="400">
+</p>
+
+<hr></hr>
+
+<p align="center">
+    <img src="./images/page-3.png" width="400" height="400">    
+</p>
+
+<hr></hr>
 
 ### Deploy
 
