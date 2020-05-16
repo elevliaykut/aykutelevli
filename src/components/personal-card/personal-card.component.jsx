@@ -19,7 +19,7 @@ const PersonalCard = () => {
         <>
             <MainContainer>
                 <div>
-                    <TopTitle>Merhaba, Ben Aykut.</TopTitle>
+                    <TopTitle>Merhaba.</TopTitle>
                     <Snippet>Full Stack Developer @ Kamion 💻</Snippet>
                     <Summary>
                         Kod yazmak ve bir uygulamayı hayata geçirene kadar geçen süre benim en büyük tutkum.Uygulama geliştirme yolculuğumda
