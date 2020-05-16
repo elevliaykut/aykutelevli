@@ -8,7 +8,7 @@ import {
     Snippet
 } from './../collective-card/collective-card.styles'
 import CustomIcon from './../customicon/custom-icon.component'
-
+import CustomEmoji from './../custom-emoji/custom-emoji.component'
 import LinkedinLogo from './../../images/social-icons/linkedin.png'
 import GithubLogo from './../../images/social-icons/github.png'
 import MediumLogo from './../../images/social-icons/medium.png'
