@@ -15,15 +15,12 @@ export const CollectiveTitle = styled.div `
 `
 export const TopTitle = styled.h1 `
     font-size: 38px;
-    margin-top:20px;
-    padding:5px;
 `
 export const Summary = styled.p `
 
 `
 export const SocialIcons = styled.div `
     display:flex;
-    margin-bottom: -20px;
     img {
         width: 30px;
         margin-right:9px;
@@ -31,7 +28,6 @@ export const SocialIcons = styled.div `
 `
 
 export const ImageContainer = styled.div `
-    margin-top: 20px;
     width: 1000px;
 `
 export const PersonalityInfo = styled.p `
@@ -100,4 +96,5 @@ export const TechEight = styled.em `
 export const Snippet = styled.h3 `
     font-weight: 600;
     font-size: 24px;
+    line-height: 1.5em;
 `

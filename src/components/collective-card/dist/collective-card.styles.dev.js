@@ -10,7 +10,7 @@ var _styledComponents = _interopRequireDefault(require("styled-components"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
 function _templateObject23() {
-  var data = _taggedTemplateLiteral(["\n    font-weight: 600;\n    font-size: 24px;\n"]);
+  var data = _taggedTemplateLiteral(["\n    font-weight: 600;\n    font-size: 24px;\n    line-height: 1.5em;\n"]);
 
   _templateObject23 = function _templateObject23() {
     return data;
@@ -180,7 +180,7 @@ function _templateObject7() {
 }
 
 function _templateObject6() {
-  var data = _taggedTemplateLiteral(["\n    margin-top: 20px;\n    width: 1000px;\n"]);
+  var data = _taggedTemplateLiteral(["\n    width: 1000px;\n"]);
 
   _templateObject6 = function _templateObject6() {
     return data;
@@ -190,7 +190,7 @@ function _templateObject6() {
 }
 
 function _templateObject5() {
-  var data = _taggedTemplateLiteral(["\n    display:flex;\n    margin-bottom: -20px;\n    img {\n        width: 30px;\n        margin-right:9px;\n    }\n"]);
+  var data = _taggedTemplateLiteral(["\n    display:flex;\n    img {\n        width: 30px;\n        margin-right:9px;\n    }\n"]);
 
   _templateObject5 = function _templateObject5() {
     return data;
@@ -210,7 +210,7 @@ function _templateObject4() {
 }
 
 function _templateObject3() {
-  var data = _taggedTemplateLiteral(["\n    font-size: 38px;\n    margin-top:20px;\n    padding:5px;\n"]);
+  var data = _taggedTemplateLiteral(["\n    font-size: 38px;\n"]);
 
   _templateObject3 = function _templateObject3() {
     return data;
