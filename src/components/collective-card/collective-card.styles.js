@@ -6,7 +6,7 @@ export const MainContainer = styled.div `
 `
 export const CollectiveTitle = styled.div `
     font-weight: bold;
-    font-size: 20px;
+    font-size: 21px;
     margin-bottom: 20px;
     margin-top: 40px;
     padding: 10px 20px;
@@ -15,7 +15,7 @@ export const CollectiveTitle = styled.div `
 `
 export const TopTitle = styled.h1 `
     font-size: 38px;
-    margin-top: 40px;
+    margin-top: 60px;
 `
 export const Summary = styled.p `
 
@@ -30,7 +30,7 @@ export const SocialIcons = styled.div `
 
 export const ImageContainer = styled.div `
     width: 1000px;
-    margin-top: 40px;
+    margin-top: 60px;
 `
 export const PersonalityInfo = styled.p `
     font-family: Muli,sans-serif;

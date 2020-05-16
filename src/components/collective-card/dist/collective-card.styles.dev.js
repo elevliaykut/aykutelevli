@@ -180,7 +180,7 @@ function _templateObject7() {
 }
 
 function _templateObject6() {
-  var data = _taggedTemplateLiteral(["\n    width: 1000px;\n    margin-top: 40px;\n"]);
+  var data = _taggedTemplateLiteral(["\n    width: 1000px;\n    margin-top: 60px;\n"]);
 
   _templateObject6 = function _templateObject6() {
     return data;
@@ -210,7 +210,7 @@ function _templateObject4() {
 }
 
 function _templateObject3() {
-  var data = _taggedTemplateLiteral(["\n    font-size: 38px;\n    margin-top: 40px;\n"]);
+  var data = _taggedTemplateLiteral(["\n    font-size: 38px;\n    margin-top: 60px;\n"]);
 
   _templateObject3 = function _templateObject3() {
     return data;
@@ -220,7 +220,7 @@ function _templateObject3() {
 }
 
 function _templateObject2() {
-  var data = _taggedTemplateLiteral(["\n    font-weight: bold;\n    font-size: 20px;\n    margin-bottom: 20px;\n    margin-top: 40px;\n    padding: 10px 20px;\n    border-bottom: 4px solid #413f3f;\n    width:100%;\n"]);
+  var data = _taggedTemplateLiteral(["\n    font-weight: bold;\n    font-size: 21px;\n    margin-bottom: 20px;\n    margin-top: 40px;\n    padding: 10px 20px;\n    border-bottom: 4px solid #413f3f;\n    width:100%;\n"]);
 
   _templateObject2 = function _templateObject2() {
     return data;
