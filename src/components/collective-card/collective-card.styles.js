@@ -23,7 +23,7 @@ export const Summary = styled.p `
 `
 export const SocialIcons = styled.div `
     display:flex;
-    margin-bottom: -40px;
+    margin-bottom: -20px;
     img {
         width: 30px;
         margin-right:9px;
@@ -31,6 +31,7 @@ export const SocialIcons = styled.div `
 `
 
 export const ImageContainer = styled.div `
+    margin-top: 20px;
     width: 1000px;
 `
 export const PersonalityInfo = styled.p `
