@@ -180,7 +180,7 @@ function _templateObject7() {
 }
 
 function _templateObject6() {
-  var data = _taggedTemplateLiteral(["\n    width: 1000px;\n"]);
+  var data = _taggedTemplateLiteral(["\n    width: 1000px;\n    margin-top: 40px;\n"]);
 
   _templateObject6 = function _templateObject6() {
     return data;
@@ -210,7 +210,7 @@ function _templateObject4() {
 }
 
 function _templateObject3() {
-  var data = _taggedTemplateLiteral(["\n    font-size: 38px;\n"]);
+  var data = _taggedTemplateLiteral(["\n    font-size: 38px;\n    margin-top: 40px;\n"]);
 
   _templateObject3 = function _templateObject3() {
     return data;
