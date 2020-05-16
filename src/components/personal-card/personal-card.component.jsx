@@ -1,5 +1,12 @@
 import React from 'react'
-import { TopTitle, Summary, SocialIcons, Snippet } from './../collective-card/collective-card.styles'
+import {
+    MainContainer,
+    TopTitle,
+    ImageContainer,
+    Summary,
+    SocialIcons,
+    Snippet
+} from './../collective-card/collective-card.styles'
 import CustomIcon from './../customicon/custom-icon.component'
 
 import LinkedinLogo from './../../images/social-icons/linkedin.png'
@@ -17,7 +24,7 @@ const PersonalCard = () => {
                     <Summary>
                         Kod yazmak ve bir uygulamayı hayata geçirene kadar geçen süre benim en büyük tutkum.Uygulama geliştirme yolculuğumda
                         güncel teknolojileri araştırarak ve bunları geliştirdiğim uygulamalarda kullanarak ilerliyorum.
-            </Summary>
+                    </Summary>
                     <SocialIcons>
                         <CustomIcon
                             targetUrl='https://www.linkedin.com/in/aykut-elevli/'

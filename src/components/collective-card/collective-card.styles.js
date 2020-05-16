@@ -1,6 +1,10 @@
 import styled from 'styled-components'
 
-export const CollectiveTitle = styled.div`
+export const MainContainer = styled.div `
+    display: flex;
+    margin-bottom: -60px;
+`
+export const CollectiveTitle = styled.div `
     font-weight: bold;
     font-size: 20px;
     margin-bottom: 20px;
@@ -9,15 +13,15 @@ export const CollectiveTitle = styled.div`
     border-bottom: 4px solid #413f3f;
     width:100%;
 `
-export const TopTitle = styled.h1`
+export const TopTitle = styled.h1 `
     font-size: 38px;
     margin-top:20px;
     padding:5px;
 `
-export const Summary = styled.p`
+export const Summary = styled.p `
 
 `
-export const SocialIcons = styled.div`
+export const SocialIcons = styled.div `
     display:flex;
     margin-bottom: -40px;
     img {
@@ -25,70 +29,74 @@ export const SocialIcons = styled.div`
         margin-right:9px;
     }
 `
-export const PersonalityInfo = styled.p`
+
+export const ImageContainer = styled.div `
+    width: 1000px;
+`
+export const PersonalityInfo = styled.p `
     font-family: Muli,sans-serif;
     line-height: 1.7;
     letter-spacing: -.03rem;
     color: #222;
     box-sizing: inherit;
 `
-export const PersonalList = styled.ul`
+export const PersonalList = styled.ul `
     list-style:none;
     padding-left:0;
     line-height:1.2;
 `
-export const Item = styled.li`
+export const Item = styled.li `
 `
-export const BoldText = styled.span`
+export const BoldText = styled.span `
     font-weight:bold;
 `
-export const SubTitle = styled.span`
+export const SubTitle = styled.span `
     font-weight:bold;
 `
-export const ItemList = styled.ul`
+export const ItemList = styled.ul `
     margin-top: 5px;
     list-style: none;
     padding-left: 0;
     margin-left: 0;
 `
-export const Date = styled.em`
+export const Date = styled.em `
     color:'#888';
     font-size:16px;
 `
 
-export const StackList = styled.ul`
+export const StackList = styled.ul `
     margin-top: 5px;
     list-style:square inside;
     padding-left:0;
     margin-left:0;
     line-height:1.8;
 `
-export const TechOne = styled.em`
+export const TechOne = styled.em `
     border-bottom: 3px solid #f0db4f;
 `
 
-export const TechTwo = styled.em`
+export const TechTwo = styled.em `
     border-bottom: 3px solid #0db7ed;
 `
-export const TechThree = styled.em`
+export const TechThree = styled.em `
     border-bottom: 3px solid #474a8a;
 `
-export const TechFour = styled.em`
+export const TechFour = styled.em `
     border-bottom: 3px solid #306998;
 `
-export const TechFive = styled.em`
+export const TechFive = styled.em `
     border-bottom: 3px solid #83ba63;
 `
-export const TechSix = styled.em`
+export const TechSix = styled.em `
     border-bottom: 3px solid #ff9900;
 `
-export const TechSeven = styled.em`
+export const TechSeven = styled.em `
     border-bottom: 3px solid #d24939;
 `
-export const TechEight = styled.em`
+export const TechEight = styled.em `
     border-bottom: 3px solid #fd9426;
 `
-export const Snippet = styled.h3`
+export const Snippet = styled.h3 `
     font-weight: 600;
     font-size: 24px;
 `
