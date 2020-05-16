@@ -3,11 +3,21 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.Snippet = exports.TechEight = exports.TechSeven = exports.TechSix = exports.TechFive = exports.TechFour = exports.TechThree = exports.TechTwo = exports.TechOne = exports.StackList = exports.Date = exports.ItemList = exports.SubTitle = exports.BoldText = exports.Item = exports.PersonalList = exports.PersonalityInfo = exports.ImageContainer = exports.SocialIcons = exports.Summary = exports.TopTitle = exports.CollectiveTitle = exports.MainContainer = void 0;
+exports.CurrentLearning = exports.Snippet = exports.TechEight = exports.TechSeven = exports.TechSix = exports.TechFive = exports.TechFour = exports.TechThree = exports.TechTwo = exports.TechOne = exports.StackList = exports.Date = exports.ItemList = exports.SubTitle = exports.BoldText = exports.Item = exports.PersonalList = exports.PersonalityInfo = exports.ImageContainer = exports.SocialIcons = exports.Summary = exports.TopTitle = exports.CollectiveTitle = exports.MainContainer = void 0;
 
 var _styledComponents = _interopRequireDefault(require("styled-components"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
+
+function _templateObject24() {
+  var data = _taggedTemplateLiteral(["\n    font-size: 17px;\n    margin-top: 30px;\n    font-style: italic;\n"]);
+
+  _templateObject24 = function _templateObject24() {
+    return data;
+  };
+
+  return data;
+}
 
 function _templateObject23() {
   var data = _taggedTemplateLiteral(["\n    font-weight: 600;\n    font-size: 24px;\n    line-height: 1.5em;\n"]);
@@ -20,7 +30,7 @@ function _templateObject23() {
 }
 
 function _templateObject22() {
-  var data = _taggedTemplateLiteral(["\n    border-bottom: 3px solid #fd9426;\n"]);
+  var data = _taggedTemplateLiteral(["\n    font-weight: bold;\n    font-size: 17px;\n    border-radius: 3px;\n    padding: 2px 7px;\n    background: #f7f7f7;\n"]);
 
   _templateObject22 = function _templateObject22() {
     return data;
@@ -30,7 +40,7 @@ function _templateObject22() {
 }
 
 function _templateObject21() {
-  var data = _taggedTemplateLiteral(["\n    border-bottom: 3px solid #d24939;\n"]);
+  var data = _taggedTemplateLiteral(["\n    font-weight: bold;\n    font-size: 17px;\n    border-radius: 3px;\n    padding: 2px 7px;\n    background: #f7f7f7;\n"]);
 
   _templateObject21 = function _templateObject21() {
     return data;
@@ -40,7 +50,7 @@ function _templateObject21() {
 }
 
 function _templateObject20() {
-  var data = _taggedTemplateLiteral(["\n    border-bottom: 3px solid #ff9900;\n"]);
+  var data = _taggedTemplateLiteral(["\n    font-weight: bold;\n    font-size: 17px;\n    border-radius: 3px;\n    padding: 2px 7px;\n    background: #f7f7f7;\n"]);
 
   _templateObject20 = function _templateObject20() {
     return data;
@@ -50,7 +60,7 @@ function _templateObject20() {
 }
 
 function _templateObject19() {
-  var data = _taggedTemplateLiteral(["\n    border-bottom: 3px solid #83ba63;\n"]);
+  var data = _taggedTemplateLiteral(["\n    font-weight: bold;\n    font-size: 17px;\n    border-radius: 3px;\n    padding: 2px 7px;\n    background: #f7f7f7;\n"]);
 
   _templateObject19 = function _templateObject19() {
     return data;
@@ -60,7 +70,7 @@ function _templateObject19() {
 }
 
 function _templateObject18() {
-  var data = _taggedTemplateLiteral(["\n    border-bottom: 3px solid #306998;\n"]);
+  var data = _taggedTemplateLiteral(["\n    font-weight: bold;\n    font-size: 17px;\n    border-radius: 3px;\n    padding: 2px 7px;\n    background: #f7f7f7;\n"]);
 
   _templateObject18 = function _templateObject18() {
     return data;
@@ -70,7 +80,7 @@ function _templateObject18() {
 }
 
 function _templateObject17() {
-  var data = _taggedTemplateLiteral(["\n    border-bottom: 3px solid #474a8a;\n"]);
+  var data = _taggedTemplateLiteral(["\n    font-weight: bold;\n    font-size: 17px;\n    border-radius: 3px;\n    padding: 2px 7px;\n    background: #f7f7f7;\n"]);
 
   _templateObject17 = function _templateObject17() {
     return data;
@@ -80,7 +90,7 @@ function _templateObject17() {
 }
 
 function _templateObject16() {
-  var data = _taggedTemplateLiteral(["\n    border-bottom: 3px solid #0db7ed;\n"]);
+  var data = _taggedTemplateLiteral(["\n    font-weight: bold;\n    font-size: 17px;\n    border-radius: 3px;\n    padding: 2px 7px;\n    background: #f7f7f7;\n"]);
 
   _templateObject16 = function _templateObject16() {
     return data;
@@ -90,7 +100,7 @@ function _templateObject16() {
 }
 
 function _templateObject15() {
-  var data = _taggedTemplateLiteral(["\n    border-bottom: 3px solid #f0db4f;\n"]);
+  var data = _taggedTemplateLiteral(["\n    font-weight: bold;\n    font-size: 17px;\n    border-radius: 3px;\n    padding: 2px 7px;\n    background: #f7f7f7;\n"]);
 
   _templateObject15 = function _templateObject15() {
     return data;
@@ -332,3 +342,7 @@ exports.TechEight = TechEight;
 var Snippet = _styledComponents["default"].h3(_templateObject23());
 
 exports.Snippet = Snippet;
+
+var CurrentLearning = _styledComponents["default"].div(_templateObject24());
+
+exports.CurrentLearning = CurrentLearning;

@@ -71,32 +71,70 @@ export const StackList = styled.ul `
     line-height:1.8;
 `
 export const TechOne = styled.em `
-    border-bottom: 3px solid #f0db4f;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 3px;
+    padding: 2px 7px;
+    background: #f7f7f7;
 `
 
 export const TechTwo = styled.em `
-    border-bottom: 3px solid #0db7ed;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 3px;
+    padding: 2px 7px;
+    background: #f7f7f7;
 `
 export const TechThree = styled.em `
-    border-bottom: 3px solid #474a8a;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 3px;
+    padding: 2px 7px;
+    background: #f7f7f7;
 `
 export const TechFour = styled.em `
-    border-bottom: 3px solid #306998;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 3px;
+    padding: 2px 7px;
+    background: #f7f7f7;
 `
 export const TechFive = styled.em `
-    border-bottom: 3px solid #83ba63;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 3px;
+    padding: 2px 7px;
+    background: #f7f7f7;
 `
 export const TechSix = styled.em `
-    border-bottom: 3px solid #ff9900;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 3px;
+    padding: 2px 7px;
+    background: #f7f7f7;
 `
 export const TechSeven = styled.em `
-    border-bottom: 3px solid #d24939;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 3px;
+    padding: 2px 7px;
+    background: #f7f7f7;
 `
 export const TechEight = styled.em `
-    border-bottom: 3px solid #fd9426;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 3px;
+    padding: 2px 7px;
+    background: #f7f7f7;
 `
 export const Snippet = styled.h3 `
     font-weight: 600;
     font-size: 24px;
     line-height: 1.5em;
+`
+
+export const CurrentLearning = styled.div `
+    font-size: 17px;
+    margin-top: 30px;
+    font-style: italic;
 `
