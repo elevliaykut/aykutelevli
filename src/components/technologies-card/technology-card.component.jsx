@@ -33,10 +33,10 @@ const TechnologyCard = () => {
                     Cross Platform mobil uygulama geliştirirken <TechOne style={{ borderBottom: '3px solid #306998' }}>React Native</TechOne>, <TechTwo style={{ borderBottom: '3px solid #0db7ed' }}>Firebase</TechTwo> kullanıyorum.
                 </Item>
                 <Item>
-                    <TechOne style={{ borderBottom: '3px solid ##306998' }}>Git</TechOne>, <TechTwo style={{ borderBottom: '3px solid #ff9900' }}>Git Terminal</TechTwo> 'i neredeyse hergün kullanıyorum.
+                    <TechOne style={{ borderBottom: '3px solid #0db7ed' }}>Git</TechOne>, <TechTwo style={{ borderBottom: '3px solid #ff9900' }}>Git Terminal</TechTwo> 'i neredeyse hergün kullanıyorum.
                 </Item>
                 <Item>
-                    Temel seviye de <TechOne style={{ borderBottom: '3px solid #fd9426' }}>Linux</TechOne> - <BoldText>Sistem</BoldText> bilgim var.
+                    Temel seviye de <TechOne style={{ borderBottom: '3px solid #0db7ed' }}>Linux</TechOne> - <BoldText>Sistem</BoldText> bilgim var.
                 </Item>
                 <Item>
                     Basit seviye de temel olarak <TechThree style={{ borderBottom: '3px solid #306998' }}>Jenkins</TechThree> - <BoldText> CI/CD </BoldText> süreçleri hakkında bilgi sahibiyim.
