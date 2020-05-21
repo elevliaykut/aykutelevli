@@ -23,8 +23,8 @@ const TechnologyCard = () => {
             <CollectiveTitle><CustomEmoji label='tool' emoji='🛠'></CustomEmoji> Teknolojiler </CollectiveTitle>
             <StackList>
                 <Item>
-                    Şuan için tamamen <TechOne style={{ borderBottom: '3px solid #f0db4f' }}>JavaScript</TechOne> - <BoldText>React</BoldText>, <TechTwo style={{ borderBottom: '3px solid #0db7ed' }}>Node.js</TechTwo> - <BoldText>Express</BoldText>, Sanallaştırma için <TechThree style={{ borderBottom: '3px solid #474a8a' }}>Docker</TechThree> teknolojileri üzerinde
-                    odaklanıp, uygulamalar geliştiriyorum.
+                    Şuan için tamamen <TechOne style={{ borderBottom: '3px solid #f0db4f' }}>JavaScript</TechOne> - <BoldText>React</BoldText>, <TechTwo style={{ borderBottom: '3px solid #0db7ed' }}>Node.js</TechTwo> - <BoldText>Express</BoldText>, <TechThree style={{ borderBottom: '3px solid #474a8a' }}>GraphQl</TechThree> teknolojileri üzerinde
+                    odaklanıyorum.
                 </Item>
                 <Item>
                     Genel olarak kullandığım teknolojiler <TechSix style={{ borderBottom: '3px solid #ff9900' }}>PHP</TechSix>, <TechFive style={{ borderBottom: '3px solid #83ba63' }}>MySql</TechFive>, <TechSeven style={{ borderBottom: '3px solid #d24939' }}>Html</TechSeven>, <TechEight style={{ borderBottom: '3px solid #fd9426' }}>Css</TechEight> şekklinde devam ediyor.
@@ -44,7 +44,7 @@ const TechnologyCard = () => {
             </StackList>
             <CurrentLearning>
                 <BoldText>Şuan öğrenilenler: </BoldText>
-                Node.js - Express, PostgreSQL
+                React.js - GraphQl
             </CurrentLearning>
         </>
     )
