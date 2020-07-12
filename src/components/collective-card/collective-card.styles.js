@@ -31,6 +31,8 @@ export const SocialIcons = styled.div `
 export const ImageContainer = styled.div `
     width: 1000px;
     margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 0px 2px 10px 0px;
 `
 export const PersonalityInfo = styled.p `
     font-family: Muli,sans-serif;

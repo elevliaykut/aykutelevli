@@ -13,6 +13,7 @@ import LinkedinLogo from './../../images/social-icons/linkedin.png'
 import GithubLogo from './../../images/social-icons/github.png'
 import MediumLogo from './../../images/social-icons/medium.png'
 import ProfilePicture from './../../images/profile.png'
+import PersonalCard from './PersonalCard/PersonalCard.module.css';
 
 const PersonalCard = () => {
     return (
@@ -42,7 +43,7 @@ const PersonalCard = () => {
                     </SocialIcons>
                 </div>
                 <ImageContainer>
-                    <img src={ProfilePicture} alt='profile' />
+                    <img src={ProfilePicture} alt='profile' className={styles.profilepicture}/>
                 </ImageContainer>
             </MainContainer>
         </>
