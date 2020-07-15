@@ -27,7 +27,7 @@ const TechnologyCard = () => {
                     odaklanıyorum.
                 </Item>
                 <Item>
-                    Genel olarak kullandığım teknolojiler <TechSix style={{ borderBottom: '3px solid #ff9900' }}>PHP</TechSix>, <TechFive style={{ borderBottom: '3px solid #83ba63' }}>MySql</TechFive>, <TechSeven style={{ borderBottom: '3px solid #d24939' }}>Html</TechSeven>, <TechEight style={{ borderBottom: '3px solid #fd9426' }}>Css</TechEight> şekklinde devam ediyor.
+                    Genel olarak kullandığım teknolojiler <TechSix style={{ borderBottom: '3px solid #ff9900' }}>PHP</TechSix> - <BoldText>Laravel</BoldText>, <TechFive style={{ borderBottom: '3px solid #83ba63' }}>MySql</TechFive>, <TechSeven style={{ borderBottom: '3px solid #d24939' }}>Html</TechSeven>, <TechEight style={{ borderBottom: '3px solid #fd9426' }}>Css</TechEight> şeklinde devam ediyor.
                 </Item>
                 <Item>
                     Cross Platform mobil uygulama geliştirmek için <TechOne style={{ borderBottom: '3px solid #306998' }}>React Native</TechOne> kullanıyorum.
