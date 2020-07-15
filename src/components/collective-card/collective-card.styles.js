@@ -36,7 +36,7 @@ export const ImageContainer = styled.div `
     padding-right: 20px;
     padding-top: 20px;
     border-radius: 10px 10px 10px 10px;
-    box-shadow: 0px 2px 10px 0px;
+    box-shadow: 0px 2px 18px 0px;
 `
 export const PersonalityInfo = styled.p `
     font-family: Muli,sans-serif;
