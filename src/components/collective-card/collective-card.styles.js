@@ -29,9 +29,13 @@ export const SocialIcons = styled.div `
 `
 
 export const ImageContainer = styled.div `
-    width: 1000px;
+    width: 900px;
+    height: 355px;
     margin-top: 60px;
-    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 10px 10px 10px 10px;
     box-shadow: 0px 2px 10px 0px;
 `
 export const PersonalityInfo = styled.p `
