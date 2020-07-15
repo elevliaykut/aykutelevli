@@ -9,7 +9,7 @@ import CustomEmoji from './../custom-emoji/custom-emoji.component'
 const JourneyCard = () => {
     return (
         <>
-            <CollectiveTitle><CustomEmoji label='computer' emoji='🌅'></CustomEmoji> Geçmişten Gelen </CollectiveTitle>
+            <CollectiveTitle><CustomEmoji label='computer' emoji='🌑'></CustomEmoji> Geçmişten Gelen </CollectiveTitle>
             <SubTitle>Yakında</SubTitle>
             <ItemList>
                 <Item>
@@ -19,7 +19,7 @@ const JourneyCard = () => {
             <SubTitle>Geçmişte</SubTitle>
             <ItemList>
                 <Item>
-                    <CustomEmoji label='last-work' emoji='🚨' /> <BoldText>Ithinka Bilgi Teknolojileri</BoldText> şirketin de Yazılım Mühendisi olarak çalıştım. <Date>(Ekim 2019 - Şubat 2020)</Date>
+                    <CustomEmoji label='last-work' emoji='🚨' /> <BoldText>Ithinka Bilgi Teknolojileri</BoldText> şirketin de Software Engineer. <Date>(Ekim 2019 - Şubat 2020)</Date>
                 </Item>
                 <Item>
                     <CustomEmoji label='graduate' emoji='🎓' /> <BoldText>Fırat Universitesi</BoldText> Bilgisayar Mühendisliği mezunuyum. <Date>(2014-2020)</Date>
@@ -28,7 +28,7 @@ const JourneyCard = () => {
                     <CustomEmoji label='intern' emoji='✈️' /> <BoldText>Gözen Holding</BoldText> Yazılım Geliştirme yaz stajı. <Date>(2017)</Date>
                 </Item>
                 <Item>
-                    <CustomEmoji label='lublin' emoji='🇪🇪' /> <BoldText>Lublin University Of Technology</BoldText> Bilgisayar Mühendisliği. <Date>(2016-2018)</Date>
+                    <CustomEmoji label='lublin' emoji='🇵🇱' /> <BoldText>Lublin University Of Technology</BoldText> Computer Science. <Date>(2016-2018)</Date>
                 </Item>
                 <Item>
                     <CustomEmoji label='highschool' emoji='🏫' /> <BoldText>Anadolu Teknik Lisesi</BoldText> web programlama. <Date>(2012)</Date>

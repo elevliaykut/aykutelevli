@@ -29,8 +29,8 @@ export const SocialIcons = styled.div `
 `
 
 export const ImageContainer = styled.div `
-    width: 900px;
-    height: 355px;
+    width: 100%;
+    height: 100%;
     margin-top: 60px;
     padding-left: 20px;
     padding-right: 20px;

@@ -20,7 +20,7 @@ const PersonalCard = () => {
             <MainContainer>
                 <div>
                     <TopTitle>Merhaba, Ben Aykut.</TopTitle>
-                    <Snippet>Full Stack Developer @ Kamion <CustomEmoji label='computer' emoji='💻' /></Snippet>
+                    <Snippet>Full Stack Developer @ Kamion <CustomEmoji label='computer'/></Snippet>
                     <Summary>
                         Kod yazmak ve bir uygulamayı hayata geçirene kadar geçen süre benim en büyük tutkum.Uygulama geliştirme yolculuğumda
                         güncel teknolojileri araştırarak ve bunları geliştirdiğim uygulamalarda kullanarak ilerliyorum.
