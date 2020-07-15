@@ -42,7 +42,7 @@ const PersonalCard = () => {
                     </SocialIcons>
                 </div>
                 <ImageContainer>
-                    <img src={ProfilePicture} alt='profile' className={styles.profilepicture}/>
+                    <img src={ProfilePicture} alt='profile'/>
                 </ImageContainer>
             </MainContainer>
         </>
