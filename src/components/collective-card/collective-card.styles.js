@@ -29,7 +29,7 @@ export const SocialIcons = styled.div `
 `
 
 export const ImageContainer = styled.div `
-    width: 100%;
+    width: 150%;
     height: 100%;
     margin-top: 60px;
     padding-left: 20px;
@@ -62,7 +62,7 @@ export const ItemList = styled.ul `
     margin-top: 5px;
     list-style: none;
     padding-left: 0;
-    margin-left: 0;
+    margin-left: 20px;
 `
 export const Date = styled.em `
     color:'#888';

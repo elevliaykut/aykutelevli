@@ -6,19 +6,23 @@ import CustomLink from './../custom-link/custom-link.component'
 const ProjectsCard = () => {
     return (
         <>
-            <CollectiveTitle><CustomEmoji label='Projects' emoji='👩🏻‍💻'></CustomEmoji> Projeler </CollectiveTitle>
+            <CollectiveTitle><CustomEmoji label='Projects' emoji='💻'></CustomEmoji> Projeler </CollectiveTitle>
             <SubTitle>Yakında</SubTitle>
             <ItemList>
                 <Item>
-                    <CustomEmoji label='present' emoji='🎵'></CustomEmoji> React, Node.js becerilerimi geliştirmek için, Spotify'ın sunduğu api'leri kullanarak kullanıcıların çalma listelerini görebileceği <CustomLink targetUrl='https://github.com/elevliaykut/FlylList'>Flylist</CustomLink>' i
+                    <CustomEmoji label='covid' emoji='😷'></CustomEmoji> ReactJs ile, <CustomLink targetUrl='https://trusting-bhaskara-8ee19a.netlify.app/'>Covid-19</CustomLink> virüsünün etki ettiği insan sayısını görebileceğiniz, aynı zamanda ülkelere göre bu rakamları takip edebileceğiniz bir 
+                    platform geliştirdim. <Date>(2020)</Date>
+                </Item>
+            </ItemList>
+            <SubTitle>Geçmiş</SubTitle>
+            <ItemList>
+                <Item>
+                    <CustomEmoji label='present' emoji='🎵'></CustomEmoji> ReactJs ve NodeJs ile, Spotify'ın api'leri kullanarak, kullanıcıların çalma listelerini görebileceği <CustomLink targetUrl='https://github.com/elevliaykut/FlylList'>Flylist</CustomLink>' i
                     geliştirdim. <Date> (2020) </Date>
                 </Item>
                 <Item>
                     <CustomEmoji label='past' emoji='🔷'></CustomEmoji> Nöbetçi takip sistemini oldukça kolaylaştıracak cross platform mobil uygulamam <BoldText> Win </BoldText>' i geliştirdim. <Date> (2020) </Date>
                 </Item>
-            </ItemList>
-            <SubTitle>Geçmiş</SubTitle>
-            <ItemList>
                 <Item>
                     <CustomEmoji label='past' emoji='🚀'></CustomEmoji> İzmir lokasyonunda bulunan <CustomLink targetUrl="https://bro35.com/"> Bro35 </CustomLink> şirketin de <CustomLink targetUrl="https://emlaksitem.com/"> Emlaksitem </CustomLink> projesinde FrontEnd Developer olarak görev aldım. <Date> (2019) </Date>
                 </Item>
