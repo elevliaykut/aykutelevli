@@ -29,12 +29,13 @@ export const SocialIcons = styled.div `
 `
 
 export const ImageContainer = styled.div `
-    width: 150%;
+    width: 130%;
     height: 100%;
     margin-top: 60px;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 20px;
+    padding-bottom: -20px;
     border-radius: 10px 10px 10px 10px;
     box-shadow: 0px 2px 18px 0px;
 `
@@ -65,7 +66,7 @@ export const ItemList = styled.ul `
     margin-left: 20px;
 `
 export const Date = styled.em `
-    color:'#888';
+    color:'#888888';
     font-size:16px;
 `
 
