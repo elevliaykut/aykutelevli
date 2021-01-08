@@ -28,17 +28,6 @@ export const SocialIcons = styled.div `
     }
 `
 
-export const ImageContainer = styled.div `
-    width: 130%;
-    height: 100%;
-    margin-top: 60px;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 20px;
-    padding-bottom: -20px;
-    border-radius: 10px 10px 10px 10px;
-    box-shadow: 0px 2px 18px 0px;
-`
 export const PersonalityInfo = styled.p `
     font-family: Muli,sans-serif;
     line-height: 1.7;
@@ -144,4 +133,9 @@ export const CurrentLearning = styled.div `
     font-size: 17px;
     margin-top: 30px;
     font-style: italic;
+`
+
+export const ImageContainer = styled.div `
+    width: 1000px;
+    margin-top: 50px;    
 `
