@@ -13,16 +13,16 @@ const JourneyCard = () => {
             <SubTitle>Yakında</SubTitle>
             <ItemList>
                 <Item>
-                    <CustomEmoji label='anchor' emoji='⚓'/> Software Engineer at <BoldText>Kamion</BoldText> <Date>(Aralık 2020' den beri...)</Date>
+                    <CustomEmoji label='startup-life-going-on' emoji='⚓'/> Software Engineer at <BoldText>Kamion</BoldText> <Date>(Aralık 2020' den beri...)</Date>
                 </Item>
                 <Item>
-                    <CustomEmoji label='rocket' emoji='🚀' /> Full Stack Engineer at <BoldText>Kamion</BoldText> <Date>(Mart 2020' den beri...)</Date>
+                    <CustomEmoji label='startup-life-started' emoji='🚀' /> Full Stack Engineer at <BoldText>Kamion</BoldText> <Date>(Mart 2020' den beri...)</Date>
                 </Item>
             </ItemList>
             <SubTitle>Geçmişte</SubTitle>
             <ItemList>
                 <Item>
-                    <CustomEmoji label='last-work' emoji='🛵' /> <BoldText>Ithinka Bilgi Teknolojileri</BoldText> şirketin de Software Engineer. <Date>(Ekim 2019 - Şubat 2020)</Date>
+                    <CustomEmoji label='first-work' emoji='🛵' /> <BoldText>Ithinka Bilgi Teknolojileri</BoldText> şirketin de Software Engineer. <Date>(Ekim 2019 - Şubat 2020)</Date>
                 </Item>
                 <Item>
                     <CustomEmoji label='graduate' emoji='🎓' /> <BoldText>Fırat Universitesi</BoldText> Bilgisayar Mühendisliği mezunuyum. <Date>(2014-2020)</Date>
@@ -31,10 +31,10 @@ const JourneyCard = () => {
                     <CustomEmoji label='intern' emoji='✈️' /> <BoldText>Gözen Holding</BoldText> Yazılım Geliştirme yaz stajı. <Date>(2017)</Date>
                 </Item>
                 <Item>
-                    <CustomEmoji label='lublin' emoji='🇵🇱' /> <BoldText>Lublin University Of Technology</BoldText> Computer Science. <Date>(2016-2018)</Date>
+                    <CustomEmoji label='exchange-student' emoji='🇵🇱' /> <BoldText>Lublin University Of Technology</BoldText> Computer Science. <Date>(2016-2018)</Date>
                 </Item>
                 <Item>
-                    <CustomEmoji label='highschool' emoji='🏫' /> <BoldText>Anadolu Teknik Lisesi</BoldText> web programlama. <Date>(2012)</Date>
+                    <CustomEmoji label='high-school' emoji='🏫' /> <BoldText>Anadolu Teknik Lisesi</BoldText> web programlama. <Date>(2012)</Date>
                 </Item>
                 <Item>
                     <CustomEmoji label="born" emoji='🐣' /> Yazılıma olan merakım lise yıllarımın kapısını çalıyor. O zamanlar bir sürü web sitesi yapıp beğenmeyip tekrar yenisine başlıyordum.
