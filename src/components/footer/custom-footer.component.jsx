@@ -7,8 +7,8 @@ const Footer = () => {
     return(
         <>
             <FooterDiv>
-                2020 - <strong>Aykut Elevli</strong>
-                <br/>aykut@aykutelevli.me <CustomEmoji label='mail' emoji='📮'></CustomEmoji>
+                2021 - <strong>Aykut ELEVLİ</strong>
+                <br/>hi@aykutelevli.me <CustomEmoji label='mail' emoji='📮'></CustomEmoji>
             </FooterDiv>
         </>
     )
