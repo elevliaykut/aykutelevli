@@ -35,19 +35,24 @@ export const PersonalityInfo = styled.p `
     color: #222;
     box-sizing: inherit;
 `
+
 export const PersonalList = styled.ul `
     list-style:none;
     padding-left:0;
     line-height:1.2;
 `
+
 export const Item = styled.li `
 `
+
 export const BoldText = styled.span `
     font-weight:bold;
 `
+
 export const SubTitle = styled.span `
     font-weight:bold;
 `
+
 export const ItemList = styled.ul `
     margin-top: 5px;
     list-style: none;
@@ -66,6 +71,7 @@ export const StackList = styled.ul `
     margin-left:0;
     line-height:1.8;
 `
+
 export const TechOne = styled.em `
     font-weight: bold;
     font-size: 17px;
@@ -81,6 +87,7 @@ export const TechTwo = styled.em `
     padding: 2px 7px;
     background: #f7f7f7;
 `
+
 export const TechThree = styled.em `
     font-weight: bold;
     font-size: 17px;
@@ -88,6 +95,7 @@ export const TechThree = styled.em `
     padding: 2px 7px;
     background: #f7f7f7;
 `
+
 export const TechFour = styled.em `
     font-weight: bold;
     font-size: 17px;
@@ -95,6 +103,7 @@ export const TechFour = styled.em `
     padding: 2px 7px;
     background: #f7f7f7;
 `
+
 export const TechFive = styled.em `
     font-weight: bold;
     font-size: 17px;
@@ -102,6 +111,7 @@ export const TechFive = styled.em `
     padding: 2px 7px;
     background: #f7f7f7;
 `
+
 export const TechSix = styled.em `
     font-weight: bold;
     font-size: 17px;
@@ -109,6 +119,7 @@ export const TechSix = styled.em `
     padding: 2px 7px;
     background: #f7f7f7;
 `
+
 export const TechSeven = styled.em `
     font-weight: bold;
     font-size: 17px;
@@ -116,6 +127,7 @@ export const TechSeven = styled.em `
     padding: 2px 7px;
     background: #f7f7f7;
 `
+
 export const TechEight = styled.em `
     font-weight: bold;
     font-size: 17px;
@@ -123,6 +135,7 @@ export const TechEight = styled.em `
     padding: 2px 7px;
     background: #f7f7f7;
 `
+
 export const Snippet = styled.h3 `
     font-weight: 600;
     font-size: 24px;
