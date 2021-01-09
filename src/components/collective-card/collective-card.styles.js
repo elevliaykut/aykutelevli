@@ -72,7 +72,43 @@ export const StackList = styled.ul `
     line-height:1.8;
 `
 
-export const TechOne = styled.em `
+export const TechOne = styled.label `
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 3px;
+    padding: 2px 7px;
+    background: #f7f7f7;
+    border-bottom: 3px solid #f0db4f;
+`
+
+export const TechTwo = styled.label `
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 3px;
+    padding: 2px 7px;
+    background: #f7f7f7;
+    border-bottom: 3px solid #ff9900;
+`
+
+export const TechThree = styled.label `
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 3px;
+    padding: 2px 7px;
+    background: #f7f7f7;
+    border-bottom: 3px solid #474a8a;
+`
+
+export const TechFour = styled.label `
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 3px;
+    padding: 2px 7px;
+    background: #f7f7f7;
+    border-bottom: 3px solid #0db7ed;
+`
+
+export const TechFive = styled.label `
     font-weight: bold;
     font-size: 17px;
     border-radius: 3px;
@@ -80,7 +116,16 @@ export const TechOne = styled.em `
     background: #f7f7f7;
 `
 
-export const TechTwo = styled.em `
+export const TechSix = styled.label `
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 3px;
+    padding: 2px 7px;
+    background: #f7f7f7;
+    border-bottom: 3px solid #ff9900;
+`
+
+export const TechSeven = styled.label `
     font-weight: bold;
     font-size: 17px;
     border-radius: 3px;
@@ -88,47 +133,7 @@ export const TechTwo = styled.em `
     background: #f7f7f7;
 `
 
-export const TechThree = styled.em `
-    font-weight: bold;
-    font-size: 17px;
-    border-radius: 3px;
-    padding: 2px 7px;
-    background: #f7f7f7;
-`
-
-export const TechFour = styled.em `
-    font-weight: bold;
-    font-size: 17px;
-    border-radius: 3px;
-    padding: 2px 7px;
-    background: #f7f7f7;
-`
-
-export const TechFive = styled.em `
-    font-weight: bold;
-    font-size: 17px;
-    border-radius: 3px;
-    padding: 2px 7px;
-    background: #f7f7f7;
-`
-
-export const TechSix = styled.em `
-    font-weight: bold;
-    font-size: 17px;
-    border-radius: 3px;
-    padding: 2px 7px;
-    background: #f7f7f7;
-`
-
-export const TechSeven = styled.em `
-    font-weight: bold;
-    font-size: 17px;
-    border-radius: 3px;
-    padding: 2px 7px;
-    background: #f7f7f7;
-`
-
-export const TechEight = styled.em `
+export const TechEight = styled.label `
     font-weight: bold;
     font-size: 17px;
     border-radius: 3px;
@@ -145,7 +150,7 @@ export const Snippet = styled.h3 `
 export const CurrentLearning = styled.div `
     font-size: 17px;
     margin-top: 30px;
-    font-style: italic;
+    font-style: normal;
 `
 
 export const ImageContainer = styled.div `

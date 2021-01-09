@@ -23,28 +23,28 @@ const TechnologyCard = () => {
             <CollectiveTitle><CustomEmoji label='tool' emoji='🛠'></CustomEmoji> Teknolojiler </CollectiveTitle>
             <StackList>
                 <Item>
-                    Şuan için tamamen <TechOne style={{ borderBottom: '3px solid #f0db4f' }}>JavaScript</TechOne> - <BoldText>React</BoldText>, <TechThree style={{ borderBottom: '3px solid #474a8a' }}>GraphQl</TechThree> teknolojileri üzerinde
-                    odaklanıyorum.
+                    Şuan, front end geliştirirken <TechOne>JavaScript</TechOne> - <BoldText>React</BoldText>, back end geliştirirken <TechTwo>PHP</TechTwo> - <BoldText>Laravel</BoldText>,  api tarafında <TechThree>REST</TechThree>teknolojilerini
+                    kullanıyorum.
                 </Item>
                 <Item>
-                    Genel olarak kullandığım teknolojiler <TechSix style={{ borderBottom: '3px solid #ff9900' }}>PHP</TechSix> - <BoldText>Laravel</BoldText>, <TechFive style={{ borderBottom: '3px solid #83ba63' }}>MySql</TechFive>, <TechSeven style={{ borderBottom: '3px solid #d24939' }}>Html</TechSeven>, <TechEight style={{ borderBottom: '3px solid #fd9426' }}>Css</TechEight> şeklinde devam ediyor.
+                    Genel olarak kullandığım teknolojiler <TechSix>PHP</TechSix> - <BoldText>Laravel</BoldText>, <TechFive>MySQL</TechFive>, <TechSeven>HTML</TechSeven>, <TechEight>CSS</TechEight> şeklinde devam ediyor.
                 </Item>
                 <Item>
-                    Cross Platform mobil uygulama geliştirmek için <TechOne style={{ borderBottom: '3px solid #306998' }}>React Native</TechOne> kullanıyorum.
+                    Version kontrol sistemi olarak <TechOne>Github</TechOne>, <TechTwo>Gitlab</TechTwo>'ı neredeyse her gün kullanıyorum.
                 </Item>
                 <Item>
-                    <TechOne style={{ borderBottom: '3px solid #0db7ed' }}>Git</TechOne>, <TechTwo style={{ borderBottom: '3px solid #ff9900' }}>Git Terminal</TechTwo> 'i neredeyse hergün kullanıyorum.
+                    <TechSix>JavaScript</TechSix> - <BoldText> React Native </BoldText> kullanarak geliştirdiğim basit uygulamalar var.
                 </Item>
                 <Item>
-                    Temel seviye de <TechOne style={{ borderBottom: '3px solid #0db7ed' }}>Linux</TechOne> - <BoldText>Sistem</BoldText> bilgim var.
+                    <TechFour>Agile Metodolojileri</TechFour> - <BoldText>Scrum</BoldText>, <BoldText>Kanban</BoldText> süreçleri hakkında bilgi sahibiyim.
                 </Item>
                 <Item>
-                    Basit seviye de <TechThree style={{ borderBottom: '3px solid #306998' }}>Jenkins</TechThree> - <BoldText> CI/CD </BoldText> süreçleri hakkında bilgi sahibiyim.
+                    Temel seviye de <TechOne>Linux</TechOne> - <BoldText>Sistem</BoldText> bilgim var.
                 </Item>
             </StackList>
             <CurrentLearning>
                 <BoldText>Şuan öğrenilenler: </BoldText>
-                React.js - GraphQl
+                React Native
             </CurrentLearning>
         </>
     )
